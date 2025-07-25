@@ -1,6 +1,2 @@
 # FacerecognitionSystem
-hi this recognises face duhhh :) 
-<br>
-But am still working on it though will uplode when finshed
-<br>
-😓
+hi this is an system that recognises face and hand kinda sort of track your face and hand the library that are used are mediapipe and opencv 
